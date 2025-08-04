@@ -1,0 +1,5 @@
+{
+  "testServer": "your_server_id",
+  "clientId": "your_bot_client_id",
+  "devs": ["your_discord_account_id"]
+}
